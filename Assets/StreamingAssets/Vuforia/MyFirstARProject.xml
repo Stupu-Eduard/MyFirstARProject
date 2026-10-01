@@ -4,4 +4,10 @@
     <ImageTarget name="2" size="0.100000 0.067428" />
     <ImageTarget name="1" size="0.100000 0.050229" />
   </Tracking>
+  <windows>
+    <requestedTextureWidth>640</requestedTextureWidth>
+    <requestedTextureHeight>480</requestedTextureHeight>
+    <resampledTextureWidth>640</resampledTextureWidth>
+    <resampledTextureHeight>480</resampledTextureHeight>
+  </windows>
 </QCARConfig>
