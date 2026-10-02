@@ -220,14 +220,14 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: IMG_20261002_180221453_DOC
+  mTrackableName: IMG_20261002_182452269_DOC
   mInitializedInEditor: 1
   mDataSetPath: Vuforia/MyFirstARProject.xml
-  mAspectRatio: 1.5664335
+  mAspectRatio: 1.6138692
   mImageTargetType: 3
-  mWidth: 0.12767857
+  mWidth: 0.12392578
   mHeight: 0.2
-  mRuntimeTexture: {fileID: 2800000, guid: 56d352c6d42ed6247b82430c4e0fc253, type: 3}
+  mRuntimeTexture: {fileID: 2800000, guid: 8a336fb583695f44b87027b403c0c814, type: 3}
   mMotionHint: 1
   mTrackingOptimization: 0
   mTrackingOptimizationNeedsUpgrade: 0
@@ -262,7 +262,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
   mObserverBehaviour: {fileID: 799459630}
   mHiddenRoot: {fileID: 0}
-  mTargetName: IMG_20261002_180221453_DOC
+  mTargetName: IMG_20261002_182452269_DOC
   mDatasetName: Vuforia/MyFirstARProject.xml
   mCastedBehaviour: {fileID: 799459630}
   mMeshFilter: {fileID: 0}
